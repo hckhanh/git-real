@@ -5,5 +5,5 @@ Best regards,
 W4YS. Edit somehthing else
 OK
 What is it?
-It's rebase.
+It's rebase. It's good for small commit :D
 I do something with rebase again.
